@@ -54,16 +54,4 @@ Mehrere Spieler verbinden sich gleichzeitig mit einem Server und versuchen, ein 
 - Für ein besseres Spielerlebnis können weitere Features ergänzt werden (z.B. Anzeige der Punkte, Hinweise, Namenseingabe).
 - Der Server muss für alle Spieler erreichbar sein (ggf. Firewall/Netzwerk beachten).
 
-## Geplante/gewünschte Features
-
-- 🧩 **Wordle-style letter feedback:** Rückmeldung zu jedem Buchstaben (richtig, falsch, falsche Position) wie bei Wordle.
-- 🏠 **Rooms / Lobbies:** Spieler können eigene Räume erstellen und beitreten, um getrennt zu spielen.
-- ⏱️ **Timers & Rounds:** Zeitbegrenzung pro Runde und automatischer Rundenwechsel.
-- 👤 **Player names:** Spieler können eigene Namen wählen, die im Spiel angezeigt werden.
-- 🌍 **Deploy to the internet:** Anleitung und Unterstützung für das Hosten des Spiels im Internet (z.B. mit Heroku, Vercel, etc.).
-- 🐍 **Python version:** Alternative Server-Implementierung in Python (z.B. mit websockets oder FastAPI).
-- 🎮 **React / Canvas UI:** Moderne Benutzeroberfläche mit React und/oder Canvas für ein besseres Spielerlebnis.
-
----
-
 Viel Spaß beim Spielen und Entwickeln! Bei Fragen oder Feature-Wünschen gerne melden.
